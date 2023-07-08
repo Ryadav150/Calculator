@@ -1,0 +1,19 @@
+.calculator {
+    margin: 0 auto;
+    width: 200px;
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  td {
+    padding: 10px;
+  }
+  
+  button {
+    width: 100%;
+  }
+  
